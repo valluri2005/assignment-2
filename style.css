@@ -1,0 +1,32 @@
+/* External CSS */
+
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Class selector */
+.event-details {
+    color: darkblue;
+    font-size: 18px;
+}
+
+/* ID selector */
+#main-header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* List styling */
+ul {
+    background-color: #e0f7fa;
+    padding: 15px;
+}
+
+li {
+    color: #00695c;
+    margin: 5px 0;
+}
